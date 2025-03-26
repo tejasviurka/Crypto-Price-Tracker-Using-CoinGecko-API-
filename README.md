@@ -1,4 +1,4 @@
-#C Crypto Price Tracker (Using CoinGecko API)
+#Crypto Price Tracker (Using CoinGecko API)
 🚀 Overview
 This project is a Crypto Price Tracker built using React.js and Vite to understand and implement REST API consumption in the frontend.
 
